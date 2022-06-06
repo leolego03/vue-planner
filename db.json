@@ -1,0 +1,28 @@
+{
+  "plans": [
+    {
+      "id": "1",
+      "text": "Buying apples",
+      "day": "November 27th at 11:30am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Painting oils on canvas",
+      "day": "November 27th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Working out",
+      "day": "November 27th at 8:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Drawing Illustration",
+      "day": "May 24th at 2:30pm",
+      "reminder": false,
+      "id": "ZeBNFV0"
+    }
+  ]
+}
