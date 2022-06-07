@@ -1,4 +1,7 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/planner-build'
+    : '/',
   devServer: {
     proxy: {
       '^/api': {
@@ -7,6 +10,6 @@ module.exports = {
         logLevel: 'debug',
         pathRewrite: { '^/api': '/' },
       },
-    }
-  }
+    },
+  },
 }
