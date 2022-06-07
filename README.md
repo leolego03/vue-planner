@@ -1,6 +1,6 @@
 # vue-planner
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -10,9 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Starts the server for database connection
 ```
-npm run build
+npm run backend
 ```
 
 ### Customize configuration
