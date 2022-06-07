@@ -1,4 +1,4 @@
-# vue-taskmanager
+# vue-planner
 
 ## Project setup
 ```
