@@ -1,11 +1,8 @@
 <template>
   <div class="container">
-    <div class="logo">
-      <img src="./assets/planner_logo01.png" alt="">
-    </div>
     <Header
       @toggle-add-plan="toggleAddPlan"
-      title="user01"
+      title="Planner"
       :showAddPlan="showAddPlan"
     />
     <router-view :showAddPlan="showAddPlan"></router-view>
@@ -60,18 +57,6 @@ body {
   padding: 30px 30px 120px;
   border-radius: 5px;
   background-color: #fff;
-}
-
-.logo {
-  width: 120px;
-  height: 120px;
-  margin-bottom: 20px;
-  /*background-color: #7f7f7f;*/
-}
-
-
-.logo img {
-  height: 100%;
 }
 
 .btn {
