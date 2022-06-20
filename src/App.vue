@@ -45,7 +45,7 @@ export default {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #fff200;
+  background-color: #ffd200;
 }
 
 .container {
