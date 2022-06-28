@@ -15,5 +15,5 @@ npm run serve
 npm run backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Share the issue on my website.
+Link: [leolego03.com](https://leolego03.com)
